@@ -1,0 +1,16 @@
+.gradle
+gradlew.bat
+settings.gradle
+gradlew
+build/
+gradle/wrapper
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### IntelliJ IDEA ###
+.idea
+
+### Mac OS ###
+.DS_Store
+
+src/main/java/module8/Main.java
